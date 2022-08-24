@@ -1,0 +1,2 @@
+<?php
+$lang["Bahasa"] = "Languange";
